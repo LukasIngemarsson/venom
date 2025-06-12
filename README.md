@@ -1,6 +1,8 @@
 # Venom
 This repository contains the source code for the framework **Venom** presented in the paper "*Using Venom to Flip the Coin and Peel the Onion: Measurement Tool and Dataset for Studying the Bitcoin - Dark Web Synergy*".
 
+DOI: https://doi.org/10.1145/3714393.3726488.
+
 ## Components
 
 ### Web Crawling
